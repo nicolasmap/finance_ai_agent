@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+database_duckdb/duckdb_files/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Jupyter
+*.ipynb_checkpoints
+*.ipynb
+
+# DBT artifacts
+finance_agent_dbt/target/
+finance_agent_dbt/dbt_packages/
+finance_agent_dbt/logs/
+
+# MacOS & editor artifacts
+.DS_Store
+*.log

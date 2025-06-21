@@ -1,0 +1,32 @@
+# Project name & Version
+name: 'finance_agent_dbt'
+version: '1.0.0'
+
+# Profile name
+profile: 'finance_agent_dbt'
+
+# Paths
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+# Directories to be removed by `dbt clean`
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# Models configuration
+models:
+  finance_agent_dbt:
+    bronze:
+      +schema: bronze
+      +materialized: table
+    silver:
+      +schema: silver
+      +materialized: table
+    gold:
+      +schema: gold
+      +materialized: table

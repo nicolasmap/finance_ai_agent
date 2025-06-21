@@ -1,0 +1,51 @@
+user_id,signup_date,country,kyc_status,full_name,source
+1,2024-12-31,SE,approved,Lúças Smith,app
+2,2024-12-06,DE,approved,M@ria García,web
+3,2024-11-11,,approved,M@ria García,pwa
+4,2024-11-17,DE,approved,Érika Smith,web
+5,2024-12-04,NL,pending,M@ria Smith,web
+6,2024-12-26,SE,pending,An@ Döe,app
+7,2024-12-09,NL,approved,Jão da Silva,pwa
+8,2024-11-28,FR,approved,João Smith,web
+9,2024-11-14,PL,approved,Lúças Smith,app
+10,2024-12-30,SE,approved,An@ Smith,pwa
+11,2024-12-05,DE,approved,João da Silva,app
+12,2024-12-19,DE,rejected,João da Silva,web
+13,2024-12-17,,approved,Jão Smith,web
+14,2024-12-15,PL,expired,João O'Neil,pwa
+15,2024-11-13,NL,approved,Jão Döe,web
+16,2024-12-16,FR,approved,M@ria Döe,pwa
+17,2024-11-20,FR,approved,Érika Smith,app
+18,2024-11-26,SE,pending,M@ria Smith,
+19,2024-12-13,,pending,M@ria O'Neil,pwa
+20,2024-12-12,IT,pending,An@ Döe,
+21,2024-11-24,IT,approved,Jão Smith,web
+22,2024-11-29,NL,approved,Érika da Silva,pwa
+23,2024-12-28,DE,pending,Jão García,app
+24,2024-12-04,SE,approved,Jão da Silva,app
+25,2024-11-29,FR,approved,M@ria Döe,app
+26,2024-11-08,DE,approved,An@ Smith,pwa
+27,2024-11-16,FR,expired,An@ Döe,
+28,2024-11-15,SE,rejected,An@ da Silva,pwa
+29,2024-11-05,IT,approved,M@ria Smith,app
+30,2024-11-22,SE,pending,Jão Smith,app
+31,2024-11-02,IT,rejected,Lúças Smith,pwa
+32,2024-12-08,FR,approved,Lúças Smith,web
+33,2024-12-06,SE,approved,João García,web
+34,2024-11-15,NL,rejected,João Smith,web
+35,2024-12-08,NL,approved,M@ria Döe,web
+36,2024-11-15,FR,approved,Lúças Döe,web
+37,2024-11-01,,approved,Jão García,web
+38,2024-11-05,FR,rejected,João García,web
+39,2024-12-16,SE,expired,Jão O'Neil,web
+40,2024-12-11,DE,rejected,Jão da Silva,
+41,2024-11-04,SE,approved,Érika Smith,app
+42,2024-11-15,NL,pending,Érika García,web
+43,2024-11-05,DE,pending,M@ria da Silva,app
+44,2024-12-28,NL,approved,Érika da Silva,web
+45,2024-11-03,NL,pending,M@ria da Silva,
+46,2024-12-26,IT,approved,Érika da Silva,pwa
+47,2024-11-22,PL,approved,João Döe,web
+48,2024-11-05,DE,approved,An@ da Silva,app
+49,2024-12-03,DE,approved,Érika Döe,pwa
+50,2024-11-16,FR,approved,Érika García,
